@@ -1,0 +1,9 @@
+/lumen.log
+/.idea
+/vendor
+public/css
+public/js
+node_modules
+/resources/vendor
+.env
+/npm-debug.log

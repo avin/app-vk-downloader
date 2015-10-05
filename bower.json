@@ -1,0 +1,17 @@
+{
+  "name": "vk_downloader",
+  "version": "0.0.1",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "arrow-js": "~0.1.6",
+    "bootstrap": "~3.3.4"
+  }
+}
